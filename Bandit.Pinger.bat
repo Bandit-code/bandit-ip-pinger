@@ -1,6 +1,6 @@
 @echo off
 color 4
-echo I wonder if they wifi on?
+echo IP:
 set /p IP=Enter IP:
 :top:
 
